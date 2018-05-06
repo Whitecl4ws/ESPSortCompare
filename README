@@ -1,4 +1,3 @@
 This is my ESP project for graduation, it was inspired by The Sound of Sorting.
 
-Controls are S to shuffle, A to sort. Open it in CMD as it takes in arguments. Furthermore, play around with sortDelay
-as two algorithms are magnitudes faster than the other two!
+Controls are S to shuffle, A to sort. Open it in CMD as it takes in arguments. Furthermore, play around with sortDelay as two algorithms are magnitudes faster than the other two!
