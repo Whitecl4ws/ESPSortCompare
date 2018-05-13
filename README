@@ -1,5 +1,9 @@
-This is my ESP project for graduation, it was inspired by The Sound of Sorting.
+Instructions to open the simulation:
+1. Press the download button
+2. Extract the build.zip into your desktop
+3. Run the out.exe file inside of it
 
-Controls are S to shuffle, A to sort. Open it in CMD as it takes in arguments. 
-Furthermore, play around with sortDelay as two algorithms are magnitudes faster than the others.
-Algorithms: Gnome Sort, Bubble Sort, Selection Sort, Radix Sort, Shell Sort.
+Controls:
+Mouse Wheel to select your algorithm
+S to shuffle the set
+A to sort the set
