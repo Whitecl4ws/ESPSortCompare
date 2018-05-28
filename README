@@ -4,6 +4,16 @@ Instructions to open the simulation:
 3. Extract the build.zip into your desktop
 4. Run the out.exe file inside of it
 
+Instructions to read any of the source files I wrote:
+1. Press the sources folder
+2. Press any of the files inside
+3. The files you see are the pertinent ones, all the others
+are configurations, assets (shaders) and the likes
+4. If you want to see the GPU programs
+4.1 Press assets
+4.2 Press shaders
+4.3 Press either one of the four
+
 Controls:
 Mouse Wheel to select your algorithm
 S to shuffle the set
